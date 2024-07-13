@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "justinsextras:bahnsteigkante"
+    },
+    "facing=north": {
+      "model": "justinsextras:bahnsteigkante"
+    },
+    "facing=east": {
+      "model": "justinsextras:bahnsteigkante",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "justinsextras:bahnsteigkante",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "justinsextras:bahnsteigkante",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "justinsextras:bahnsteigkante",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "justinsextras:bahnsteigkante",
+      "x": 90
+    }
+  }
+}
